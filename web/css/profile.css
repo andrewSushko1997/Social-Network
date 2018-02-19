@@ -13,6 +13,48 @@
 
 .profile-info-container {
     width: 100%;
-    padding: 15px;
+    padding: 15px 20px;
     background-color: #fff;
+}
+
+.profile-info-container h3{
+    margin-top: 0;
+}
+
+.profile-photos {
+    margin-top: 20px;
+    padding: 15px 20px;
+    background-color: #fff;
+}
+.photo-container {
+    width: 100%;
+    height: 123px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.photos-header {
+    margin: 0 auto;
+}
+
+.profile-friends {
+    padding: 15px 20px;
+    background-color: #fff;
+    margin-top: 20px;
+}
+
+.profile-friends h4 {
+    margin: 0 auto;
+}
+
+.profile-friends-container {
+    margin-bottom: 5px;
+}
+
+.profile-friends-container img {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
 }
